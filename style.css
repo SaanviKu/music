@@ -13,8 +13,7 @@ body {
     color: black;
 }
 
-canvas
-{
+canvas {
     border: 5px solid white;
     border-radius: 20px;
 }
